@@ -54,3 +54,7 @@ The goal of this project is to help students in Pakistan explore suitable career
 ## Developed For
 
 HEC ACT AI Final Project
+
+## Live Demo
+
+https://career-compass-pakistan.vercel.app
