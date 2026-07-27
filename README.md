@@ -28,7 +28,6 @@ The platform uses Artificial Intelligence to analyze student profiles and genera
 
 The AI works as an expert career counselor for Pakistani students. It analyzes students' educational background, skills, interests, and career goals to provide suitable career options, required skills, learning roadmaps, and professional guidance.
 
-## Screenshots
 
 ## Screenshots
 
@@ -42,7 +41,8 @@ The AI works as an expert career counselor for Pakistani students. It analyzes s
 ![Generate Roadmap](click-generate-roadmap.jpeg)
 
 ### Step-by-Step Learning Roadmap
-![Step-by-Step Learning Roadmap](./step-by-step-learning-roadmap.jpeg)
+![Step-by-Step Learning Roadmap](step-by-step-learning roadmap.jpeg)
+
 
 ### Top Pakistan Tech Hubs
 ![Pakistan Tech Hubs](top-pakistan-tech-hubs.jpeg)
