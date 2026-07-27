@@ -30,7 +30,22 @@ The AI works as an expert career counselor for Pakistani students. It analyzes s
 
 ## Screenshots
 
-Screenshots of the application interface will be added here.
+## Screenshots
+
+### Student Profile Screen
+![Student Profile](student-profile-screen.jpeg)
+
+### Select Primary Goals
+![Primary Goals](select-primary-goals.jpeg)
+
+### Generate Career Roadmap
+![Generate Roadmap](click-generate-roadmap.jpeg)
+
+### Step-by-Step Learning Roadmap
+![Learning Roadmap](step-by-step-learning-roadmap.jpeg)
+
+### Top Pakistan Tech Hubs
+![Pakistan Tech Hubs](top-pakistan-tech-hubs.jpeg)
 
 ## Project Goal
 
