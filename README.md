@@ -41,7 +41,7 @@ The AI works as an expert career counselor for Pakistani students. It analyzes s
 ![Generate Roadmap](click-generate-roadmap.jpeg)
 
 ### Step-by-Step Learning Roadmap
-![Step-by-Step Learning Roadmap](step-by-step-learning roadmap.jpeg)
+![Learning Roadmap](learning-roadmap.jpeg)
 
 
 ### Top Pakistan Tech Hubs
